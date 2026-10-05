@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../.codespaces/.persistedshare/devcontainers-cli"
+		},
+		{
+			"path": "../.codespaces"
+		},
+		{
+			"path": "../.codespaces/shared"
+		}
+	],
+	"settings": {}
+}
